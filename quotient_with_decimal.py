@@ -2,4 +2,4 @@
 number_1 = float(input("input the first number: "))
 number_2 = float(input("input the second number: "))
 # quotient operation and display
-print(f"the sum of {number_1} and {number_2} is {number_1 / number_2}")
+print(f"the quotient of {number_1} and {number_2} is {number_1 / number_2}")
